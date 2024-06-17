@@ -1,0 +1,50 @@
+#contenedorPadre{
+    width: 90%;
+    margin: auto;
+}
+
+.listado{
+    width: 50%;
+    float: left;
+}
+
+h1{
+    text-align: center;
+}
+
+h2,p{
+    line-height: 30px;
+}
+
+p{
+    text-align: justify;
+}
+
+#typicalAcronymsT{
+    text-align: center;
+    font-size: 28px;
+}
+
+#typicalAcronymsP{
+    text-align: center;
+    font-size: 18px;
+}
+
+#contenedorImagen{
+    width: 100%;
+}
+
+#imagen{
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: 50vh;
+}
+
+#history{
+    text-align: center;
+}
+
+li{
+    line-height: 40px;
+}
